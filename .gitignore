@@ -1,0 +1,5 @@
+*node_modules/*
+yarn.lock
+utility.sh
+package.json
+
